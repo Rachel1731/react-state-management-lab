@@ -15,3 +15,10 @@ li {
   border-radius: 8px;
 }
 
+.strength-display {
+  font-size: 20px;
+  font-weight: bold;
+  color: pink;
+  margin-bottom: 20px;
+}
+
